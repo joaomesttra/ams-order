@@ -1,0 +1,29 @@
+{
+  "id": "(use um id gerado pelo código)",
+  "waiter": "João Garçom",
+  "table": 22,
+  "kitchenItens": [{
+    "name": "Entrada",
+    "quantity": 1,
+    "note": "Cliente pediu menos salada"
+  },
+    {
+      "name": "Prato principal",
+      "quantity": 2,
+      "note": "Cliente pediu menos salada"
+    }
+  ],
+  "barItens": [{
+    "name": "Coca-Cola",
+    "quantity": 1,
+    "note": "Sem gelo"
+  },
+    {
+      "name": "Cerveja",
+      "quantity": 1,
+      "note": ""
+    }
+  ],
+  "statusBar": "PREPARING",
+  "statusKitchen": "PREPARING"
+}
